@@ -19,11 +19,17 @@ Every day our warehouse sends "Click&Collect" packages to our pharmacies.
 We require a new API to keep track of which packages should be sent to which pharmacies, and to which recipients. <br/>
 A package includes packageId, pharmacyId and recipient. The api should include: <br/>
     - List all packages <br/>
-    - List single package <br/>
+    - Get single package <br/>
     - Add new package <br/>
     - Remove package <br/>
 
-When done send us your work on email.
+When done send us your work on email. <br/>
+
+### Overall code qualitites: 
+Qualities we look for in a code submission: <br/> 
+_Clarity and readability_: Code should be easy to read and understand by colleagues to facilitate collaboration and maintenance. <br/>
+_Security and privacy_: Code should take into consideration the handling of sensitive information and adhere to best practices to protect data integrity and confidentiality. <br/>
+_Resilience and error handling_: Code should be resilient, capable of withstanding use from numerous clients without crashing as well as give resonable information to clients <br/>
 
 ## Run the app
 
