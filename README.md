@@ -16,12 +16,12 @@ https://en.wikipedia.org/wiki/Personal_identity_number_(Sweden)#Checksum
 
 ### Part 2
 Every day our warehouse sends "Click&Collect" packages to our pharmacies.
-We require a new API to keep track of which packages should be sent to which pharmacies, and to which recipients.
-4. A package includes packageId, pharmacyId and recipient. The api should include: 
-    - List all packages
-    - List single package
-    - Add new package
-    - Remove package
+We require a new API to keep track of which packages should be sent to which pharmacies, and to which recipients. <br/>
+A package includes packageId, pharmacyId and recipient. The api should include: <br/>
+    - List all packages <br/>
+    - List single package <br/>
+    - Add new package <br/>
+    - Remove package <br/>
 
 When done send us your work on email.
 
